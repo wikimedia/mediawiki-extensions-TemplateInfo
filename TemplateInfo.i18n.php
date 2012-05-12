@@ -263,6 +263,7 @@ $messages['nl'] = array(
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
  * @author Harald Khan
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'templateinfo-desc' => 'Støttar malar som definerer datastrukturen sin gjennom XML-markering.',
