@@ -210,6 +210,7 @@ $messages['ig'] = array(
  * @author Beta16
  */
 $messages['it'] = array(
+	'templateinfo-desc' => 'Supporta la definizione della struttura dati per i template tramite markup XML',
 	'templateinfo-header' => 'La definizione XML per questo template è:',
 );
 
