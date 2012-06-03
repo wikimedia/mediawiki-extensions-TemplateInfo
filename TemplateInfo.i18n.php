@@ -206,7 +206,7 @@ $messages['ig'] = array(
 	'templateinfo-header' => 'Úchè XML maka mkpurụ ihü nka bu:',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
