@@ -53,7 +53,7 @@ $messages['arz'] = array(
 	'templateinfo-header' => 'تعريف XML للقالب ده هو:',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -70,7 +70,7 @@ $messages['be-tarask'] = array(
 	'templateinfo-header' => 'XML-вызначэньне гэтага шаблёну:',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -78,7 +78,7 @@ $messages['br'] = array(
 	'templateinfo-header' => 'Setu an termenadur XML evit ar patrom-mañ :',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -110,7 +110,7 @@ $messages['el'] = array(
 	'templateinfo-header' => 'Ο προσδιορισμός XML για αυτό το πρότυπο είναι:',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Translationista
  */
 $messages['es'] = array(
@@ -118,7 +118,7 @@ $messages['es'] = array(
 	'templateinfo-header' => 'La definición XML para esta plantilla es:',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Crt
  */
 $messages['fi'] = array(
@@ -126,7 +126,7 @@ $messages['fi'] = array(
 	'templateinfo-header' => 'XML-määritelmä tälle mallineelle on:',
 );
 
-/** French (Français)
+/** French (français)
  * @author PieRRoMaN
  */
 $messages['fr'] = array(
@@ -134,7 +134,7 @@ $messages['fr'] = array(
 	'templateinfo-header' => 'La définition XML pour ce modèle est :',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -174,7 +174,7 @@ $messages['hsb'] = array(
 	'templateinfo-header' => 'XML-definicija za tutu předłohu je:',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  */
 $messages['hu'] = array(
@@ -182,7 +182,7 @@ $messages['hu'] = array(
 	'templateinfo-header' => 'A sablon XML-definíciója:',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -238,7 +238,7 @@ $messages['lb'] = array(
 	'templateinfo-header' => "D'XML-Definitioun fir dës Schabloun ass:",
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -262,7 +262,7 @@ $messages['nl'] = array(
 	'templateinfo-header' => 'De XML-definitie voor dit sjabloon luidt als volgt:',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -271,7 +271,7 @@ $messages['nn'] = array(
 	'templateinfo-header' => 'XML-definisjonen til denne malen er:',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -279,7 +279,7 @@ $messages['oc'] = array(
 	'templateinfo-header' => 'La definicion XML per aqueste modèl es :',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -296,7 +296,7 @@ $messages['pms'] = array(
 	'templateinfo-header' => "La definission XML për sto stamp-sì a l'é:",
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
@@ -304,7 +304,7 @@ $messages['pt'] = array(
 	'templateinfo-header' => 'A definição XML para esta predefinição é:',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Daemorris
  */
 $messages['pt-br'] = array(
@@ -312,7 +312,7 @@ $messages['pt-br'] = array(
 	'templateinfo-header' => 'A definição XML para esta predefinição é:',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -320,7 +320,7 @@ $messages['roa-tara'] = array(
 	'templateinfo-header' => "'A definizione XML pe st'esembie jè:",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -328,7 +328,7 @@ $messages['ru'] = array(
 	'templateinfo-header' => 'XML-определение этого шаблона:',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
@@ -336,7 +336,7 @@ $messages['sl'] = array(
 	'templateinfo-header' => 'Opredelitev XML predloge je:',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  */
 $messages['sr-ec'] = array(
@@ -344,13 +344,13 @@ $messages['sr-ec'] = array(
 	'templateinfo-header' => 'XML дефиниција овог шаблона:',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'templateinfo-desc' => 'Podržava šablone koji određuju njihovu strukturu podataka preko XML označavanja',
 	'templateinfo-header' => 'XML definicija ovog šablona:',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Per
  */
 $messages['sv'] = array(
@@ -374,7 +374,7 @@ $messages['tr'] = array(
 	'templateinfo-header' => 'Bu şablon için XML tanımı şu şekilde:',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author NickK
  * @author Prima klasy4na
  * @author Тест
@@ -392,7 +392,7 @@ $messages['vi'] = array(
 	'templateinfo-header' => 'Định nghĩa XML của bản mẫu này là:',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Chenxiaoqino
  */
 $messages['zh-hans'] = array(
@@ -400,7 +400,7 @@ $messages['zh-hans'] = array(
 	'templateinfo-header' => '此模版的XML定义是：',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Mark85296341
  */
 $messages['zh-hant'] = array(
