@@ -61,7 +61,7 @@ $messages['ast'] = array(
 	'templateinfo-header' => 'La definición XML pa esta plantía ye:',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -94,7 +94,7 @@ $messages['de'] = array(
 	'templateinfo-header' => 'Die XML-Definition für diese Vorlage ist:',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -142,7 +142,7 @@ $messages['frp'] = array(
 	'templateinfo-header' => 'La dèfinicion XML por ceti modèlo est :',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -166,7 +166,7 @@ $messages['he'] = array(
 	'templateinfo-header' => 'הגדרת ה־XML עבור תבנית זו היא:',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
