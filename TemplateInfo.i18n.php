@@ -246,7 +246,7 @@ $messages['mk'] = array(
 	'templateinfo-header' => 'XML-определбата за овој шаблон е:',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
