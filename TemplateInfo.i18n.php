@@ -222,6 +222,14 @@ $messages['ja'] = array(
 	'templateinfo-header' => 'このテンプレートの XML 定義は以下のようになっています:',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'templateinfo-desc' => 'XML 마크업을 통해 테이터 구조를 정의하는 틀 지원',
+	'templateinfo-header' => '이 틀에 대한 XML 정의:',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
