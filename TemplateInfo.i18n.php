@@ -61,7 +61,7 @@ $messages['ast'] = array(
 	'templateinfo-header' => 'La definición XML pa esta plantía ye:',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -254,7 +254,7 @@ $messages['mk'] = array(
 	'templateinfo-header' => 'XML-определбата за овој шаблон е:',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -270,7 +270,7 @@ $messages['nl'] = array(
 	'templateinfo-header' => 'De XML-definitie voor dit sjabloon luidt als volgt:',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -344,7 +344,7 @@ $messages['sl'] = array(
 	'templateinfo-header' => 'Opredelitev XML predloge je:',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  */
 $messages['sr-ec'] = array(
@@ -352,7 +352,7 @@ $messages['sr-ec'] = array(
 	'templateinfo-header' => 'XML дефиниција овог шаблона:',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'templateinfo-desc' => 'Podržava šablone koji određuju njihovu strukturu podataka preko XML označavanja',
 	'templateinfo-header' => 'XML definicija ovog šablona:',
@@ -400,7 +400,7 @@ $messages['vi'] = array(
 	'templateinfo-header' => 'Định nghĩa XML của bản mẫu này là:',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Chenxiaoqino
  */
 $messages['zh-hans'] = array(
@@ -408,7 +408,7 @@ $messages['zh-hans'] = array(
 	'templateinfo-header' => '此模版的XML定义是：',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Mark85296341
  */
 $messages['zh-hant'] = array(
