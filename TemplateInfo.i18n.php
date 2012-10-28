@@ -352,7 +352,8 @@ $messages['sr-ec'] = array(
 	'templateinfo-header' => 'XML дефиниција овог шаблона:',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'templateinfo-desc' => 'Podržava šablone koji određuju njihovu strukturu podataka preko XML označavanja',
 	'templateinfo-header' => 'XML definicija ovog šablona:',
@@ -415,4 +416,3 @@ $messages['zh-hant'] = array(
 	'templateinfo-desc' => '支援的模版已將其資料結構用 XML 代碼聲明。',
 	'templateinfo-header' => '此模版的 XML 定義是：',
 );
-
