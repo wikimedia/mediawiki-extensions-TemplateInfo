@@ -267,7 +267,7 @@ $messages['nb'] = array(
  */
 $messages['nl'] = array(
 	'templateinfo-desc' => 'Ondersteunt sjablonen waarvoor de gegevensstructuur is gedefinieerd via XML',
-	'templateinfo-header' => 'De XML-definitie voor dit sjabloon luidt als volgt:',
+	'templateinfo-header' => 'De XML-definitie voor deze sjabloon luidt als volgt:',
 );
 
 /** Norwegian Nynorsk (norsk (nynorsk)‎)
