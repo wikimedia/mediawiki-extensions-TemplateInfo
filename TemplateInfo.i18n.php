@@ -401,6 +401,13 @@ $messages['vi'] = array(
 	'templateinfo-header' => 'Định nghĩa XML của bản mẫu này là:',
 );
 
+/** Yiddish (ייִדיש)
+ * @author פוילישער
+ */
+$messages['yi'] = array(
+	'templateinfo-header' => 'די XML-דעפיניציע פון דעם מוסטער איז:',
+);
+
 /** Simplified Chinese (中文（简体）‎)
  * @author Chenxiaoqino
  */
