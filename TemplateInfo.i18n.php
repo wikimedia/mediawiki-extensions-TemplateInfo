@@ -222,6 +222,13 @@ $messages['ja'] = array(
 	'templateinfo-header' => 'このテンプレートの XML 定義は以下のようになっています:',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'templateinfo-header' => 'ამ თარგის XML განმარტება არის:',
+);
+
 /** Korean (한국어)
  * @author 아라
  */
