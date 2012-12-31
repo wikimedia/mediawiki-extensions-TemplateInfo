@@ -343,6 +343,13 @@ $messages['ru'] = array(
 	'templateinfo-header' => 'XML-определение этого шаблона:',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'templateinfo-header' => 'මෙම සැකිල්ල සඳහා XML නිර්වචනය වනුයේ:',
+);
+
 /** Slovenian (slovenščina)
  * @author Dbc334
  */
