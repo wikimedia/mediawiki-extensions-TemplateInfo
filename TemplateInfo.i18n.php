@@ -20,11 +20,12 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  * @author The Evil IP address
  * @author Yaron Koren 
  */
 $messages['qqq'] = array(
-	'templateinfo-desc' => '{{desc}}',
+	'templateinfo-desc' => '{{desc|name=Template Info|url=http://www.mediawiki.org/wiki/Extension:TemplateInfo}}',
 	'templateinfo-header' => 'Header to display XML definition in template page',
 );
 
