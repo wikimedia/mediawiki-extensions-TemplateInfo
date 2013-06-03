@@ -262,7 +262,7 @@ $messages['mk'] = array(
 	'templateinfo-header' => 'XML-определбата за овој шаблон е:',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -278,7 +278,7 @@ $messages['nl'] = array(
 	'templateinfo-header' => 'De XML-definitie voor deze sjabloon luidt als volgt:',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Harald Khan
  * @author Njardarlogar
  */
