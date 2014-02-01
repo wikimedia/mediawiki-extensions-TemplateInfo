@@ -119,6 +119,13 @@ $messages['es'] = array(
 	'templateinfo-header' => 'La definición XML para esta plantilla es:',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'templateinfo-header' => 'تعریف ایکس‌ام‌ال برای این الگو هست:',
+);
+
 /** Finnish (suomi)
  * @author Crt
  */
