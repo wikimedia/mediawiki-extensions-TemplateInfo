@@ -123,6 +123,7 @@ $messages['es'] = array(
  * @author Armin1392
  */
 $messages['fa'] = array(
+	'templateinfo-desc' => 'پشتیبانی الگوها، ساختار اطلاعات را از طریق نشانه گذاری ایکس‌ام‌ال تعریف می‌کند',
 	'templateinfo-header' => 'تعریف ایکس‌ام‌ال برای این الگو هست:',
 );
 
