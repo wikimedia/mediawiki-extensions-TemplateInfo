@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Shirayuki",
+            "The Evil IP address",
+            "Yaron Koren "
+        ]
+    },
+    "templateinfo-desc": "{{desc|name=Template Info|url=http://www.mediawiki.org/wiki/Extension:TemplateInfo}}",
+    "templateinfo-header": "Header to display XML definition in template page"
+}

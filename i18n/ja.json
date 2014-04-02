@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Fryed-peach"
+        ]
+    },
+    "templateinfo-desc": "自身のデータ構造を XML マークアップで定義するテンプレートをサポートする",
+    "templateinfo-header": "このテンプレートの XML 定義は以下のようになっています:"
+}

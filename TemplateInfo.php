@@ -10,8 +10,6 @@
  *
  * Usage: Add the following line in LocalSettings.php:
  * require_once( "$IP/extensions/TemplateInfo/TemplateInfo.php" );
- *
- * @version 0.3.1
  */
 
 // Check environment
@@ -27,7 +25,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	'path'			=> __FILE__,
 	'name'			=> 'TemplateInfo',
 	'author'		=> array( 'Yaron Koren', 'Roan Kattouw' ),
-	'version'		=> '0.3.1',
+	'version'		=> '0.4.0',
 	'url'			=> 'http://www.mediawiki.org/wiki/Extension:TemplateInfo',
 	'descriptionmsg'	=> 'templateinfo-desc',
 );
@@ -36,6 +34,7 @@ $wgExtensionCredits['parserhook'][] = array(
 $dir = dirname( __FILE__ ) . '/';
 
 // Internationalization
+$wgMessagesDirs['TemplateInfo'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['TemplateInfo'] = $dir . 'TemplateInfo.i18n.php';
 
 // Register auto load for the special page class
