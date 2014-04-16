@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Bjankuloski06"
-        ]
-    },
-    "templateinfo-desc": "Поддржува шаблони кои ја определуваат нивната податочна структура по пат на XML ознаки",
-    "templateinfo-header": "XML-определбата за овој шаблон е:"
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"templateinfo-desc": "Поддржува шаблони кои ја определуваат нивната податочна структура по пат на XML ознаки",
+	"templateinfo-header": "XML-определбата за овој шаблон е:"
 }

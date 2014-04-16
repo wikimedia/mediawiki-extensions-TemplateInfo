@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Translationista"
-        ]
-    },
-    "templateinfo-desc": "Admite plantillas que definen su estructura de datos a través de XML",
-    "templateinfo-header": "La definición XML para esta plantilla es:"
+	"@metadata": {
+		"authors": [
+			"Translationista"
+		]
+	},
+	"templateinfo-desc": "Admite plantillas que definen su estructura de datos a través de XML",
+	"templateinfo-header": "La definición XML para esta plantilla es:"
 }

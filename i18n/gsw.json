@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Als-Holder"
-        ]
-    },
-    "templateinfo-desc": "Unterstitzt Vorlage, wu ihri Datestruktur iber XML-Markup definiere",
-    "templateinfo-header": "D XML-Definition fir die Vorlag isch:"
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"templateinfo-desc": "Unterstitzt Vorlage, wu ihri Datestruktur iber XML-Markup definiere",
+	"templateinfo-header": "D XML-Definition fir die Vorlag isch:"
 }

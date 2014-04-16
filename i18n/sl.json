@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Dbc334"
-        ]
-    },
-    "templateinfo-desc": "Podpira predloge, ki opredelujejo svojo zgradbo podatkov preko označevanja XML",
-    "templateinfo-header": "Opredelitev XML predloge je:"
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"templateinfo-desc": "Podpira predloge, ki opredelujejo svojo zgradbo podatkov preko označevanja XML",
+	"templateinfo-header": "Opredelitev XML predloge je:"
 }

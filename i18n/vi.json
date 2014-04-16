@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Minh Nguyen"
-        ]
-    },
-    "templateinfo-desc": "Cho phép định nghĩa cấu trúc dữ liệu của bản mẫu dùng mã XML",
-    "templateinfo-header": "Định nghĩa XML của bản mẫu này là:"
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"templateinfo-desc": "Cho phép định nghĩa cấu trúc dữ liệu của bản mẫu dùng mã XML",
+	"templateinfo-header": "Định nghĩa XML của bản mẫu này là:"
 }

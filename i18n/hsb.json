@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Michawiki"
-        ]
-    },
-    "templateinfo-desc": "Podpěruje předłohi, kotrež datowu strukturu přez XML-woznamjenjenja definuja",
-    "templateinfo-header": "XML-definicija za tutu předłohu je:"
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"templateinfo-desc": "Podpěruje předłohi, kotrež datowu strukturu přez XML-woznamjenjenja definuja",
+	"templateinfo-header": "XML-definicija za tutu předłohu je:"
 }

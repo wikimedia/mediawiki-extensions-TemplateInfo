@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "JurgenNL",
-            "Siebrand"
-        ]
-    },
-    "templateinfo-desc": "Ondersteunt sjablonen waarvoor de gegevensstructuur is gedefinieerd via XML",
-    "templateinfo-header": "De XML-definitie voor dit sjabloon luidt als volgt:"
+	"@metadata": {
+		"authors": [
+			"JurgenNL",
+			"Siebrand"
+		]
+	},
+	"templateinfo-desc": "Ondersteunt sjablonen waarvoor de gegevensstructuur is gedefinieerd via XML",
+	"templateinfo-header": "De XML-definitie voor dit sjabloon luidt als volgt:"
 }

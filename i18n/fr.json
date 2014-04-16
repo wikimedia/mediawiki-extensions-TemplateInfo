@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "PieRRoMaN"
-        ]
-    },
-    "templateinfo-desc": "Supporte les modèle en définissant leur structure de données via des balises XML",
-    "templateinfo-header": "La définition XML pour ce modèle est :"
+	"@metadata": {
+		"authors": [
+			"PieRRoMaN"
+		]
+	},
+	"templateinfo-desc": "Supporte les modèle en définissant leur structure de données via des balises XML",
+	"templateinfo-header": "La définition XML pour ce modèle est :"
 }

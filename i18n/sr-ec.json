@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Rancher"
-        ]
-    },
-    "templateinfo-desc": "Подржава шаблоне који одређују њихову структуру података преко XML означавања",
-    "templateinfo-header": "XML дефиниција овог шаблона:"
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"templateinfo-desc": "Подржава шаблоне који одређују њихову структуру података преко XML означавања",
+	"templateinfo-header": "XML дефиниција овог шаблона:"
 }

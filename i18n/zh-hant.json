@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Mark85296341"
-        ]
-    },
-    "templateinfo-desc": "支援的模版已將其資料結構用 XML 代碼聲明。",
-    "templateinfo-header": "此模版的 XML 定義是："
+	"@metadata": {
+		"authors": [
+			"Mark85296341"
+		]
+	},
+	"templateinfo-desc": "支援的模版已將其資料結構用 XML 代碼聲明。",
+	"templateinfo-header": "此模版的 XML 定義是："
 }

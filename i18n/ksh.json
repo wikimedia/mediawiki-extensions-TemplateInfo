@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Purodha"
-        ]
-    },
-    "templateinfo-desc": "Ongerschtöz, dat mer de Dateschtruktur vun Schablone övver en <i lang=\"en\">XML</i> Fommaat beschrieve kann.",
-    "templateinfo-header": "Di Schablon met <i lang=\"en\">XML</i> beschrevve:"
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"templateinfo-desc": "Ongerschtöz, dat mer de Dateschtruktur vun Schablone övver en <i lang=\"en\">XML</i> Fommaat beschrieve kann.",
+	"templateinfo-header": "Di Schablon met <i lang=\"en\">XML</i> beschrevve:"
 }

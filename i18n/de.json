@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Imre"
-        ]
-    },
-    "templateinfo-desc": "Unterstützt Vorlagen, die ihre Datenstruktur über XML auszeichnen",
-    "templateinfo-header": "Die XML-Definition für diese Vorlage ist:"
+	"@metadata": {
+		"authors": [
+			"Imre"
+		]
+	},
+	"templateinfo-desc": "Unterstützt Vorlagen, die ihre Datenstruktur über XML auszeichnen",
+	"templateinfo-header": "Die XML-Definition für diese Vorlage ist:"
 }

@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Chenxiaoqino"
-        ]
-    },
-    "templateinfo-desc": "支持的模版已将其数据结构用XML代码声明。",
-    "templateinfo-header": "此模版的XML定义是："
+	"@metadata": {
+		"authors": [
+			"Chenxiaoqino"
+		]
+	},
+	"templateinfo-desc": "支持的模版已将其数据结构用XML代码声明。",
+	"templateinfo-header": "此模版的XML定义是："
 }

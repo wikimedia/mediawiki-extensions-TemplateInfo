@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Crt"
-        ]
-    },
-    "templateinfo-desc": "Tukee mallineiden tietorakenteiden määrittelyä XML-merkkauskielen kautta.",
-    "templateinfo-header": "XML-määritelmä tälle mallineelle on:"
+	"@metadata": {
+		"authors": [
+			"Crt"
+		]
+	},
+	"templateinfo-desc": "Tukee mallineiden tietorakenteiden määrittelyä XML-merkkauskielen kautta.",
+	"templateinfo-header": "XML-määritelmä tälle mallineelle on:"
 }
