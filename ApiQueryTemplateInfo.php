@@ -14,7 +14,7 @@ if (!defined('MEDIAWIKI')) die();
 /**
  * @ingroup API
  */
-class APIQueryTemplateInfo extends ApiQueryBase {
+class ApiQueryTemplateInfo extends ApiQueryBase {
 
 	public function __construct( $query, $moduleName ) {
 		parent :: __construct( $query, $moduleName, 'ti' );
