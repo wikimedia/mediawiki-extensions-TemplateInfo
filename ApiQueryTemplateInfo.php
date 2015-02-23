@@ -47,11 +47,16 @@ class ApiQueryTemplateInfo extends ApiQueryBase {
 			// message by checking whether the first character
 			// is '<' - this is an interim solution until there's
 			// a better storage format in place
-			if (substr($template_info, 0, 1) == '<')
-				ApiResult::setContent( $vals, $row->pp_value );
-			else
+			if (substr($template_info, 0, 1) == '<') {
+				if ( defined( 'ApiResult::META_CONTENT' ) ) {
+					ApiResult::setContentValue( $vals, 'value', $row->pp_value );
+				} else {
+					ApiResult::setContent( $vals, $row->pp_value );
+				}
+			} else {
 				// add error message as an "error=" attribute
 				$vals['error'] = $row->pp_value;
+			}
 			$fit = $this->addPageSubItems( $row->pp_page, $vals );
 			if( !$fit ) {
 				$this->setContinueEnumParameter( 'continue', $row->pp_page );
