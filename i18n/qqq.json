@@ -3,9 +3,10 @@
 		"authors": [
 			"Shirayuki",
 			"The Evil IP address",
-			"Yaron Koren "
+			"Yaron Koren ",
+			"Umherirrender"
 		]
 	},
-	"templateinfo-desc": "{{desc|name=Template Info|url=http://www.mediawiki.org/wiki/Extension:TemplateInfo}}",
+	"templateinfo-desc": "{{desc|name=Template Info|url=https://www.mediawiki.org/wiki/Extension:TemplateInfo}}",
 	"templateinfo-header": "Header to display XML definition in template page"
 }
