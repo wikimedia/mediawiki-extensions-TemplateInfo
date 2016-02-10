@@ -50,18 +50,18 @@ END;
 		if (is_null($value)) {
 			$content = $data_type;
 		} else {
-			$content = "$data_type: " . HTML::element('span', array('class' => 'rowValue'), $value);
+			$content = "$data_type: " . Html::element('span', array('class' => 'rowValue'), $value);
 		}
-		$cell = HTML::rawElement('td', array('colspan' => 2, 'class' => $css_class), $content);
-		$text = HTML::rawElement('tr', null, $cell);
+		$cell = Html::rawElement('td', array('colspan' => 2, 'class' => $css_class), $content);
+		$text = Html::rawElement('tr', null, $cell);
 		$text .= "\n";
 		return $text;
 	}
 
 	static function tableMessageRowHTML($css_class, $name, $value) {
-		$cell1 = HTML::element('td', array('class' => $css_class), $name);
-		$cell2 = HTML::element('td', array('class' => 'msg'), $value);
-		$text = HTML::rawElement('tr', null, $cell1 . "\n" . $cell2);
+		$cell1 = Html::element('td', array('class' => $css_class), $name);
+		$cell2 = Html::element('td', array('class' => 'msg'), $value);
+		$text = Html::rawElement('tr', null, $cell1 . "\n" . $cell2);
 		$text .= "\n";
 		return $text;
 	}
