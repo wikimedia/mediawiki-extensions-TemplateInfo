@@ -8,5 +8,7 @@
 		]
 	},
 	"templateinfo-desc": "{{desc|name=Template Info|url=https://www.mediawiki.org/wiki/Extension:TemplateInfo}}",
-	"templateinfo-header": "Header to display XML definition in template page"
+	"templateinfo-header": "Header to display XML definition in template page",
+	"apihelp-query+templateinfo-description": "{{doc-apihelp-description|query+templateinfo}}",
+	"apihelp-query+templateinfo-example-titles": "{{doc-apihelp-example|query+templateinfo}}"
 }

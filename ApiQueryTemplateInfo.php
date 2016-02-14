@@ -67,24 +67,16 @@ class ApiQueryTemplateInfo extends ApiQueryBase {
 	
 	public function getAllowedParams() {
 		return array (
-			'continue' => null,
+			'continue' => array(
+				ApiBase::PARAM_HELP_MSG => 'api-help-param-continue',
+			),
 		);
 	}
 
-	public function getParamDescription() {
+	protected function getExamplesMessages() {
 		return array (
-			'continue' => 'When more results are available, use this to continue',
+			'action=query&prop=templateinfo&titles=Template:Foo|Template:Bar'
+				=> 'apihelp-query+templateinfo-example-titles',
 		);
 	}
-
-	public function getDescription() {
-		return 'Template information, defined by the Template Info extension (http://www.mediawiki.org/Extension:Template_Info)';
-	}
-
-	protected function getExamples() {
-		return array (
-			'api.php?action=query&prop=templateinfo&titles=Template:Foo|Template:Bar',
-		);
-	}
-
 }
