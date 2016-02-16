@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"PieRRoMaN"
+			"PieRRoMaN",
+			"Gomoko"
 		]
 	},
 	"templateinfo-desc": "Supporte les modèle en définissant leur structure de données via des balises XML",
-	"templateinfo-header": "La définition XML pour ce modèle est :"
+	"templateinfo-header": "La définition XML pour ce modèle est :",
+	"apihelp-query+templateinfo-description": "Information du modèle, définie par l’extension Template Info",
+	"apihelp-query+templateinfo-example-titles": "Afficher les informations du modèle sur un ensemble de pages."
 }
