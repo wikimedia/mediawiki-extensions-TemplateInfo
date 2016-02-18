@@ -5,5 +5,7 @@
 		]
 	},
 	"templateinfo-desc": "Supporta la definizione della struttura dati per i template tramite markup XML",
-	"templateinfo-header": "La definizione XML per questo template è:"
+	"templateinfo-header": "La definizione XML per questo template è:",
+	"apihelp-query+templateinfo-description": "Informazioni template, definite dall'estensione Template Info",
+	"apihelp-query+templateinfo-example-titles": "Mostra informazioni template di un insieme di pagine."
 }

@@ -6,5 +6,7 @@
 		]
 	},
 	"templateinfo-desc": "Ondersteunt sjablonen waarvoor de gegevensstructuur is gedefinieerd via XML",
-	"templateinfo-header": "De XML-definitie voor dit sjabloon luidt als volgt:"
+	"templateinfo-header": "De XML-definitie voor dit sjabloon luidt als volgt:",
+	"apihelp-query+templateinfo-description": "Sjabloongegeven, zoals gedefinieerd door de uitbreiding Template Info",
+	"apihelp-query+templateinfo-example-titles": "Sjabloongegevens weergeven als een verzameling pagina's."
 }
