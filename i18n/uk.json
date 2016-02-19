@@ -3,9 +3,12 @@
 		"authors": [
 			"NickK",
 			"Prima klasy4na",
-			"Тест"
+			"Тест",
+			"Piramidion"
 		]
 	},
 	"templateinfo-desc": "Підтримує визначення структури даних шаблонів за допомогою розмітки XML",
-	"templateinfo-header": "XML-визначення для цього шаблону:"
+	"templateinfo-header": "XML-визначення для цього шаблону:",
+	"apihelp-query+templateinfo-description": "Інформація про шаблон, що визначається розширенням Template Info",
+	"apihelp-query+templateinfo-example-titles": "Показати інформацію про шаблони з набору сторінок."
 }

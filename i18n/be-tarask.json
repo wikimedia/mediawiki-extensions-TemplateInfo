@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"EugeneZelenko",
-			"Jim-by"
+			"Jim-by",
+			"Red Winged Duck"
 		]
 	},
 	"templateinfo-desc": "Падтрымлівае шаблёны вызначаючы іх будову зьвестак праз меткі XML",
-	"templateinfo-header": "XML-вызначэньне гэтага шаблёну:"
+	"templateinfo-header": "XML-вызначэньне гэтага шаблёну:",
+	"apihelp-query+templateinfo-description": "Зьвесткі шаблёну, вызначаныя пашырэньнем Template Info"
 }
