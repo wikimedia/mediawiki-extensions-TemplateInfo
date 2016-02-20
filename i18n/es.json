@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Translationista"
+			"Translationista",
+			"Macofe"
 		]
 	},
 	"templateinfo-desc": "Admite plantillas que definen su estructura de datos a través de XML",
-	"templateinfo-header": "La definición XML para esta plantilla es:"
+	"templateinfo-header": "La definición XML para esta plantilla es:",
+	"apihelp-query+templateinfo-description": "Información de la plantilla, definida por la extensión \"Template Info\"",
+	"apihelp-query+templateinfo-example-titles": "Mostrar la información de la plantilla de un conjunto de páginas."
 }

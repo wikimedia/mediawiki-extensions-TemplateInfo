@@ -8,5 +8,6 @@
 	},
 	"templateinfo-desc": "Падтрымлівае шаблёны вызначаючы іх будову зьвестак праз меткі XML",
 	"templateinfo-header": "XML-вызначэньне гэтага шаблёну:",
-	"apihelp-query+templateinfo-description": "Зьвесткі шаблёну, вызначаныя пашырэньнем Template Info"
+	"apihelp-query+templateinfo-description": "Зьвесткі шаблёну, вызначаныя пашырэньнем Template Info",
+	"apihelp-query+templateinfo-example-titles": "Паказвае зьвесткі шаблёну з набору старонак."
 }
