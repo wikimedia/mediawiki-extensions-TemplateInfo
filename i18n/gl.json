@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño"
+			"Toliño",
+			"Banjo"
 		]
 	},
 	"templateinfo-desc": "Soporta modelos que definen a súa estrutura de datos a través do formato XML",
-	"templateinfo-header": "A definición XML para este modelo é:"
+	"templateinfo-header": "A definición XML para este modelo é:",
+	"apihelp-query+templateinfo-description": "Información de modelo, definida pola extensión Template Info",
+	"apihelp-query+templateinfo-example-titles": "Amosar a información de modelos dun conxunto de páxinas."
 }
