@@ -47,6 +47,3 @@ $wgHooks['ParserFirstCallInit'][] = 'TemplateInfoHooks::register';
 
 // Register API action
 $wgAPIPropModules['templateinfo'] = 'ApiQueryTemplateInfo';
-
-// Register page_props usage
-$wgPageProps['templateinfo'] = 'Content of &lt;templateinfo&gt; tag';
