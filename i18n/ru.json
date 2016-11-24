@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"Okras"
 		]
 	},
 	"templateinfo-desc": "Поддерживает шаблоны с определением их структуры данных постредством XML-разметки",
-	"templateinfo-header": "XML-определение этого шаблона:"
+	"templateinfo-header": "XML-определение этого шаблона:",
+	"apihelp-query+templateinfo-description": "Информация о шаблоне, определённая расширением Template Info",
+	"apihelp-query+templateinfo-example-titles": "Показать информацию о шаблоне для набора страниц."
 }
