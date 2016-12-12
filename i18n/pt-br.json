@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Daemorris"
+			"Daemorris",
+			"!Silent"
 		]
 	},
 	"templateinfo-desc": "Suporta predefinições definindo suas estruturas de dados via marcação XML",
-	"templateinfo-header": "A definição XML para esta predefinição é:"
+	"templateinfo-header": "A definição XML para esta predefinição é:",
+	"apihelp-query+templateinfo-description": "Informação da predefinição, definida pela extensão \"Template Info\"",
+	"apihelp-query+templateinfo-example-titles": "Exibe a informação da predefinição de um conjunto de páginas."
 }
