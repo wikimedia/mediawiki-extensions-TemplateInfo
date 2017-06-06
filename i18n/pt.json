@@ -5,5 +5,7 @@
 		]
 	},
 	"templateinfo-desc": "Define a estrutura de dados das predefinições em XML",
-	"templateinfo-header": "A definição XML para esta predefinição é:"
+	"templateinfo-header": "A definição XML para esta predefinição é:",
+	"apihelp-query+templateinfo-description": "Informação da predefinição, definida pela extensão Template Info",
+	"apihelp-query+templateinfo-example-titles": "Mostrar a informação das predefinições de um conjunto de páginas."
 }
