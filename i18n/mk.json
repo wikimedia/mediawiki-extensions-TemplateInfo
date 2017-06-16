@@ -7,5 +7,6 @@
 	"templateinfo-desc": "Поддржува шаблони кои ја определуваат нивната податочна структура по пат на XML ознаки",
 	"templateinfo-header": "XML-определбата за овој шаблон е:",
 	"apihelp-query+templateinfo-description": "Информации за шаблон, определени од додатокот за информации за шаблони",
+	"apihelp-query+templateinfo-summary": "Информации за шаблон, определени од додатокот за информации за шаблони",
 	"apihelp-query+templateinfo-example-titles": "Прикажувај шаблонски информации за збир страници."
 }
