@@ -7,5 +7,6 @@
 	"templateinfo-desc": "Da encontu pa que les plantíes definan la so estructura de datos per aciu de marques XML",
 	"templateinfo-header": "La definición XML pa esta plantía ye:",
 	"apihelp-query+templateinfo-description": "Información de la plantía, definida pola estensión Template Info",
+	"apihelp-query+templateinfo-summary": "Información de la plantía, definida pola estensión Template Info",
 	"apihelp-query+templateinfo-example-titles": "Amosar la información de plantía d'un conxuntu de páxines."
 }
