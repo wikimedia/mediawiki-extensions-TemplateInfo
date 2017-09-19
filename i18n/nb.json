@@ -8,5 +8,6 @@
 	"templateinfo-desc": "Støtter maler som definerer datastrukturen sin gjennom XML-markering",
 	"templateinfo-header": "XML-definisjonen for denne malen er:",
 	"apihelp-query+templateinfo-description": "Malinformasjon, definert av Template Info-utvidelsen",
+	"apihelp-query+templateinfo-summary": "Malinformasjon, definert av utvidelsen Template Info",
 	"apihelp-query+templateinfo-example-titles": "Viser malinformasjonen til et sett av sider."
 }
