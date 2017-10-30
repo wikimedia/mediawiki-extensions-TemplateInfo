@@ -35,7 +35,6 @@ $dir = dirname( __FILE__ ) . '/';
 
 // Internationalization
 $wgMessagesDirs['TemplateInfo'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['TemplateInfo'] = $dir . 'TemplateInfo.i18n.php';
 
 // Register auto load for the special page class
 $wgAutoloadClasses['TemplateInfoHooks'] = $dir . 'TemplateInfo.hooks.php';
