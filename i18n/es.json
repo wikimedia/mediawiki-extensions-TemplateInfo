@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Translationista",
-			"Macofe"
+			"Macofe",
+			"Indiralena"
 		]
 	},
 	"templateinfo-desc": "Admite plantillas que definen su estructura de datos a través de XML",
