@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vito Genovese"
+			"Vito Genovese",
+			"Hedda"
 		]
 	},
 	"templateinfo-desc": "XML işaretlemesi ile veri yapılarını tanımlayan şablonları destekler",
-	"templateinfo-header": "Bu şablon için XML tanımı şu şekilde:"
+	"templateinfo-header": "Bu şablon için XML tanımı şu şekilde:",
+	"apihelp-query+templateinfo-description": "Şablon Bilgisi uzantısıyla tanımlanan şablon bilgisi",
+	"apihelp-query+templateinfo-summary": "Şablon Bilgisi uzantısıyla tanımlanan şablon bilgisi",
+	"apihelp-query+templateinfo-example-titles": "Bir dizi sayfanın şablon bilgilerini göster."
 }
