@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Imre",
-			"Metalhead64"
+			"Metalhead64",
+			"Creepario"
 		]
 	},
 	"templateinfo-desc": "Unterstützt Vorlagen, die ihre Datenstruktur über XML auszeichnen",
 	"templateinfo-header": "Die XML-Definition für diese Vorlage ist:",
 	"apihelp-query+templateinfo-description": "Vorlageninformation, definiert durch die Erweiterung „Template Info“.",
+	"apihelp-query+templateinfo-summary": "Vorlageninformation, definiert durch die Erweiterung „Template Info“.",
 	"apihelp-query+templateinfo-example-titles": "Zeigt die Vorlageninformationen eines Satzes von Seiten an."
 }
