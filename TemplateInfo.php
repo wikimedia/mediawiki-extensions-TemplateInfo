@@ -26,7 +26,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	'name'			=> 'TemplateInfo',
 	'author'		=> array( 'Yaron Koren', 'Roan Kattouw' ),
 	'version'		=> '0.4.0',
-	'url'			=> 'http://www.mediawiki.org/wiki/Extension:TemplateInfo',
+	'url'			=> 'https://www.mediawiki.org/wiki/Extension:TemplateInfo',
 	'descriptionmsg'	=> 'templateinfo-desc',
 );
 
