@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"Kwj2772"
 		]
 	},
-	"templateinfo-desc": "XML 마크업을 통해 테이터 구조를 정의하는 틀 지원",
+	"templateinfo-desc": "XML 마크업을 통해 데이터 구조를 정의하는 틀 지원",
 	"templateinfo-header": "이 틀에 대한 XML 정의:"
 }
