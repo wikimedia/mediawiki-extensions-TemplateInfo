@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Creepario",
 			"Imre",
-			"Metalhead64",
-			"Creepario"
+			"Metalhead64"
 		]
 	},
 	"templateinfo-desc": "Unterstützt Vorlagen, die ihre Datenstruktur über XML auszeichnen",

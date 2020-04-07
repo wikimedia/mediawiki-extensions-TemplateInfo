@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"templateinfo-desc": "Podržava šablone koji određuju njihovu strukturu podataka preko XML označavanja",
 	"templateinfo-header": "XML definicija ovog šablona:"
 }

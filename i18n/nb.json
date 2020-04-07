@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nghtwlkr",
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"Nghtwlkr"
 		]
 	},
 	"templateinfo-desc": "Støtter maler som definerer datastrukturen sin gjennom XML-markering",

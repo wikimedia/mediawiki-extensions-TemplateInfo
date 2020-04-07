@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"JurgenNL",
-			"Siebrand",
-			"Mainframe98"
+			"Mainframe98",
+			"Siebrand"
 		]
 	},
 	"templateinfo-desc": "Ondersteunt sjablonen waarvoor de gegevensstructuur is gedefinieerd via XML",
