@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Dani"
-		]
-	},
-	"templateinfo-desc": "Lehetővé teszi, hogy a sablonok XML-jelölőnyelv segítségével definiálják az adatstruktúrájukat",
-	"templateinfo-header": "A sablon XML-definíciója:"
-}
